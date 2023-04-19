@@ -1,7 +1,7 @@
 # CRUD-.Net
 
 #### Descrição do projeto
-Este projeto foi desenvolvido para exercitar o conhevimento, criei um CRUD. 
+Este projeto foi desenvolvido para exercitar o conhecimento, criei um CRUD. 
 
 ### Tecnologias utilizadas
 
@@ -9,7 +9,7 @@ Este projeto foi desenvolvido para exercitar o conhevimento, criei um CRUD.
   <li>CSharp</li>
   <li>.NetCore - WinForms</li>
   <li>Entity Framework</li>
-  <li>BD SQLite</li>
+  <li>Bando de dados SQLite</li>
 </ul>
 
 ### Contatos:
